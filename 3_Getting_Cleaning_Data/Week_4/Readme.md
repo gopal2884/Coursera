@@ -21,7 +21,7 @@ The original dataset included the following data:
 
 - 'test/subject_test.txt': ID's of subjects in the training data
 
-Please download this data here: files these can be downloaded here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip:
+Please download this data here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip:
 
 
 A brief description of the script:
