@@ -40,7 +40,6 @@ The run_analysis.R script merges data from a number of .txt files and produces a
 
 - Lastly, we make sure we provide useful labels for all the columns.
 
-A description of the "tidy_movement_data.txt" file may be found in the "CodeBook.md" file. 
 
 How to use the script:
 =====================================
